@@ -757,15 +757,11 @@
         "api": "https://v.fnsp0.com/api.php/provide/vod/"
     },
     {
-        "name": "随便看电影",
-        "api": "https://www.sbkdy.com/inc/api.php"
-    },
-    {
         "name": "豆瓣资源",
-        "api": "http://api.dbyunzy.com/api.php/provide/vod"
+        "api": "http://api.dbyunzy.com/api.php/provide/vod/"
     },
     {
         "name": "穿梭资源",
-        "api": "http://ok.888hyk.com/api.php/provide/vod"
+        "api": "http://ok.888hyk.com/api.php/provide/vod/"
     }
 ]
