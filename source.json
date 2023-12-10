@@ -193,10 +193,6 @@
         "api": "https://www.rrvipw.com/api.php/provide/vod/"
     },
     {
-        "name": "橘猫影视",
-        "api": "https://cj.apiabzy.com/api.php/provide/vod/"
-    },
-    {
         "name": "豆瓣资源",
         "api": "http://api.dbyunzy.com/api.php/provide/vod"
     }
