@@ -461,7 +461,7 @@
         "api": "http://www.51kanju.cn/api.php/provide/vod/"
     },
     {
-        "name": "波比影视,
+        "name": "波比影视",
         "api": "http://xxhhsc.top/api.php/provide/vod/"
     },
     {
@@ -745,7 +745,8 @@
         "api": "https://app.feiyu5.com/api.php/provide/vod/"
     },
     {
-        "name": "白熊影院",https://www.bxyy5.com/api.php/provide/vod/https://m3u8.xiangkanapi.com/api.php/provide/vod/"
+        "name": "白熊影院",
+        "api": "https://www.bxyy5.com/api.php/provide/vod/https://m3u8.xiangkanapi.com/api.php/provide/vod/"
     },
     {
         "name": "嗨哆咪影视",
@@ -762,7 +763,7 @@
     {
         "name": "豆瓣资源",
         "api": "http://api.dbyunzy.com/api.php/provide/vod"
-    },
+    }
     {
         "name": "穿梭资源",
         "api": "http://ok.888hyk.com/api.php/provide/vod"
