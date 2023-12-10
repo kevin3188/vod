@@ -686,7 +686,7 @@
     },
     {
         "name": "侦探APP",
-        "api": "http://ys.huangguay.com/api.php/provide/vod/",
+        "api": "http://ys.huangguay.com/api.php/provide/vod/"
     },
     {
         "name": "BL视频",
@@ -726,7 +726,7 @@
     },
     {
         "name": "7K",
-        "api": "https://zy.xmflv.vip/api.php/provide/vod/  "
+        "api": "https://zy.xmflv.vip/api.php/provide/vod/"
     },
     {
         "name": "融兴资源",
