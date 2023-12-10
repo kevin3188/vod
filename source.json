@@ -763,7 +763,7 @@
     {
         "name": "豆瓣资源",
         "api": "http://api.dbyunzy.com/api.php/provide/vod"
-    }
+    },
     {
         "name": "穿梭资源",
         "api": "http://ok.888hyk.com/api.php/provide/vod"
