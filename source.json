@@ -746,7 +746,7 @@
     },
     {
         "name": "白熊影院",
-        "api": "https://www.bxyy5.com/api.php/provide/vod/https://m3u8.xiangkanapi.com/api.php/provide/vod/"
+		"api": "https://www.bxyy5.com/api.php/provide/vod/"
     },
     {
         "name": "嗨哆咪影视",
